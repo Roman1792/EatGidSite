@@ -283,16 +283,19 @@
             <div class="row">
 
               <div class="col-md-6 col-md-offset-3 col-subscribe">
-
-                <form class="subscribe-form form-inline" action="./index.html" role="form">
+                <form class="subscribe-form form-inline" method="POST" action="https://cp.unisender.com/ru/subscribe?hash=5f4hiytpiug661cojcs3zop7by3gzxjy8qrdbo9h6t478ucx6j3oy" name="subscribtion_form" role="form">
 
                   <!-- Input -->
                   <div class="form-group">
 
                     <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Введите Email">
+                    <input type="text" class="form-control" name="email" id="exampleInputEmail1" placeholder="Введите Email">
 
                   </div> <!-- /.form-group -->
+                  <input type="hidden" name="charset" value="UTF-8">
+                  <input type="hidden" name="default_list_id" value="7368126">
+                  <input type="hidden" name="overwrite" value="2">
+                  <input type="hidden" name="is_v5" value="1">
 
                   <!-- Button -->
                   <button class="btn btn-success" type="submit">Подписаться</button>
