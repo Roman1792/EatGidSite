@@ -15,3 +15,13 @@ col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col
   padding-left: 13px;
   padding-right: 13px;
 }
+
+.jumbotron {
+	background: #2e2f41 url(../images/Up.png) 0 0 no-repeat;
+	background-size: cover;
+}
+
+.subscribe-section {
+	background: #2e2f41 url(../images/Down.png) 0 0 no-repeat;
+    background-size: cover;
+}
