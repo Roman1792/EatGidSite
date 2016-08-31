@@ -3699,7 +3699,7 @@ tbody.collapse.in {
   margin-top: 50px;
   margin-bottom: 20px;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
   .jumbotron .img-logo {
     margin-top: 0;
   }
@@ -3711,7 +3711,7 @@ tbody.collapse.in {
   width: 320px;
   height: auto;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
   .jumbotron .img-iPhone {
     margin-top: 50px;
   }
@@ -5954,7 +5954,7 @@ tbody.collapse.in {
 .col-services {
   padding-bottom: 20px;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
   .col-services {
     display: block;
     margin-left: auto;
@@ -5999,7 +5999,7 @@ tbody.collapse.in {
 .features-section .row.row-padding {
   padding-top: 40px;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
   .features-section .row.media-screen-800 {
     padding-top: 40px;
     padding-bottom: 80px;
@@ -6016,7 +6016,7 @@ tbody.collapse.in {
 .features-section .img-iPhone.margin-top {
   top: -40px;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
   .features-section .img-iPhone.margin-top {
     top: 0;
   }
@@ -6024,12 +6024,12 @@ tbody.collapse.in {
 .features-section .img-iPhone.margin-top-1 {
   top: -80px;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
   .features-section .img-iPhone.margin-top-1 {
     top: 0;
   }
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
   .features-section .img-iPhone.margin-screen-800 {
     margin-top: 40px;
   }
@@ -6070,7 +6070,7 @@ tbody.collapse.in {
   height: auto;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
   .col-features {
     display: block;
     margin-left: auto;
@@ -6087,7 +6087,7 @@ tbody.collapse.in {
 .col-features.features-content {
   padding-top: 100px;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
   .col-features.features-content {
     padding-top: 0;
   }
@@ -6157,7 +6157,7 @@ tbody.collapse.in {
 .footer-section .row.row-padding {
   padding-top: 40px;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
   .footer-section {
     text-align: center;
   }
@@ -6166,7 +6166,7 @@ tbody.collapse.in {
   font-size: 15px;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
   .col-footer.col-padding {
     padding-top: 40px;
     padding-bottom: 40px;
@@ -6229,7 +6229,7 @@ tbody.collapse.in {
   margin: 0;
   padding-left: 0;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
   .addthis_default_style {
     text-align: center;
   }
